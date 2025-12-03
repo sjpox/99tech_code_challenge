@@ -6,3 +6,11 @@ libraries used:
 
 
 This project is hardcoded and no copy-pasted code from any resources.
+
+Steps to run the crud api service
+1. Setup your mysql configuration
+2. Put your mysql credentials in .env
+3. Run all the mysql scripts under migrations/db
+4. Run the command line: npm run start
+
+That's it! You got it!
