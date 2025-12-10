@@ -33,3 +33,9 @@ Once verified:
         - actions to be done in the tables
         1. insert new row everytime update is triggered
         2. update the field which holds the grand total score - this will helps in more efficient and optimize way of fetching the total score per user as its already aggregated instead of calculating from time to time 
+
+
+
+
+== Diagram ==
+goto draw.io and import user diagram-code challenge.drawio
